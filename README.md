@@ -1,7 +1,7 @@
 ### About Me
 ---
 
-Hi, I'm Larry! Born and raised in the heart of New Orleans with a passion for coding, cooking, and culture. I come from a background in automotive repair, Architecture and the arts, carpentry, culinary, graphical design, photography, and software development.
+Hi, I'm Larry! I am a software developer born and raised in the heart of New Orleans with a passion for coding, cooking, and culture. I come from a background in automotive repair, Architecture and the arts, carpentry, culinary, graphical design, photography, and software development.
 
 Some would call me "a jack of all trades, master of none"; however, I always love to refer to myself as "a jack of all trades that's a master of some, but oftentimes that is better than a master of one"
 
