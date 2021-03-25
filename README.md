@@ -1,4 +1,4 @@
-#### About Me
+### About Me
 ---
 
 Hi, I'm Larry! Born and raised in the heart of New Orleans with a passion for coding, cooking, and culture. I come from a background in automotive repair, Architecture and the arts, carpentry, culinary, graphical design, photography, and software development.
