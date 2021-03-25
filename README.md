@@ -11,7 +11,6 @@ I have over 5 years of experience with Html5 and CSS3. A little over 2 years wit
 
 I have an incredible passion for technology and how it can influence the world. I find myself falling in love everyday with new technologies and how they can help people access the world before them.
 
-#### Links
 ---
 
 [Repositories](https://github.com/lschwall?tab=repositories) ||
