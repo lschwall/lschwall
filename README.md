@@ -14,6 +14,7 @@ I have an incredible passion for technology and how it can influence the world. 
 #### Links
 ---
 
+[Repositories](https://github.com/lschwall?tab=repositories) ||
 [Portfolio](https://www.larryschwall.com) || 
 [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=lschwall4@gmail.com) ||
 [LinkedIn](https://www.linkedin.com/in/larryschwalliv)
