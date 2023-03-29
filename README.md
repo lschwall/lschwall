@@ -1,15 +1,10 @@
 ### About Me
 ---
+Welcome! My name is Larry Schwall. I am a software developer based in New Orleans, La. 
 
-Hi, I'm Larry! I am a software developer born and raised in the heart of New Orleans with a passion for coding, cooking, and culture. I come from a background in automotive repair, Architecture and the arts, carpentry, culinary, graphical design, photography, and software development.
+I have over 6 years of experience with Html5 and CSS3, a little over 5 years with JavaScript, and 2+ years of react and Angular. Alongside my experience in Web Dev, I have a little over a year with C++ in the Arduino engineering workspace alongside countless years of technology hardware experience!
 
-Some would call me "a jack of all trades, master of none"; however, I always love to refer to myself as "a jack of all trades that's a master of some, but oftentimes that is better than a master of one"
-
-Most days, you can find me working on various projects that uses P.E.R.N. and M.E.R.N. stacks. Other days, you'll find me building furniture, taking photos, grabbing a beer with some buds, or playing board games.
-
-I have over 5 years of experience with Html5 and CSS3. A little over 2 years with JavaScript. I recently graduated from Operation Spark in New Orleans, La as a Full Stack Web Engineer with a certificate in IBC fundamentals of Javascript, Functional Programming and Web Development Level 3.
-
-I have an incredible passion for technology and how it can influence the world. I find myself falling in love everyday with new technologies and how they can help people access the world before them.
+Outside of work, I have a passion for the expanding my culinary skills and diving into the retro futurism art spaces.
 
 ---
 
