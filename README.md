@@ -1,6 +1,6 @@
 ### About Me
 ---
-Welcome! My name is Larry Schwall. I am a software developer based in New Orleans, La. 
+Welcome! My name is Larry Schwall and I have a passion for technology 
 
 I have over 6 years of experience with Html5 and CSS3, a little over 5 years with JavaScript, and 2+ years of react and Angular. Alongside my experience in Web Dev, I have a little over a year with C++ in the Arduino engineering workspace alongside countless years of technology hardware experience!
 
