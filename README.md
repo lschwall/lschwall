@@ -2,7 +2,7 @@
 ---
 Welcome! My name is Larry Schwall!
 
-I have worked over the past 5+ years of experience with Html5 and CSS3, a little over 4 and half years with JavaScript, and 2+ years of React and Angular. Alongside my experience with web application creation and design, I have a little over a year with C++ in the robotics engineering workspace alongside countless years of technology hardware experience!
+I have worked over the past 5+ years with Html5 and CSS3, a little over 4 and half years with JavaScript, and 2+ years of React and Angular. Alongside my experience in developing and creating web applications, I have a year with C++ in the robotics engineering workspace alongside 10+ years of technology hardware experience!
 
 Outside of work, I have a passion for the expanding my culinary skills and diving into the retro futurism art spaces.
 
